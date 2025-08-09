@@ -27,3 +27,23 @@ Técnicas de machine learning aplicadas
 
 <img src="https://scikit-learn.org/stable/_static/favicon.ico" width="14" height="14"/> Scikit-learn
 
+📌 Destaques
+Análise exploratória de dados avançada
+
+Modelos preditivos com Scikit-learn
+
+Visualizações interativas
+
+Técnicas de limpeza e preparação de dados
+
+🤝 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+📜 Licença
+Este projeto está sob a licença MIT - veja o arquivo LICENSE para detalhes.
+
+Feito por HigorHSdev | Participe da jornada de dados! 🚀
+
+
+
+
